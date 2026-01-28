@@ -20,3 +20,4 @@ A web-based emotion detection system that analyzes text input to identify emotio
 
 ### Step-by-Step Installation
 1. Clone the Repository
+```
