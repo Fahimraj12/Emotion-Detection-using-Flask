@@ -11,3 +11,12 @@ A web-based emotion detection system that analyzes text input to identify emotio
 - REST API Endpoint: Programmatic access to emotion detection functionality
 - Confidence Scores: Displays probability scores for each detected emotion
 - Response History: Optional logging of previous analyses
+
+## 🔧 Installation & Setup
+#### Prerequisites
+- Python 3.7+
+- pip (Python package manager)
+- Git
+
+### Step-by-Step Installation
+1. Clone the Repository
