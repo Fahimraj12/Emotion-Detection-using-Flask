@@ -32,3 +32,4 @@ venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
 ```
+3. Install Dependencies
