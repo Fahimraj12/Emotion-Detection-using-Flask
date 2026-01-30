@@ -36,3 +36,20 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+### 🚀 Usage
+###### Running the Application Locally
+- Start the Flask Server
+```
+python app.py
+```
+###### Access the Application
+- Open your browser and navigate to:
+```
+http://localhost:5000
+```
+
+### Using the Web Interface
+1. Enter text in the input box
+2. Click "Detect Emotion"
+3. View results with emotion classification and confidence scores
