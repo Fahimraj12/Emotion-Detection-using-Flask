@@ -53,3 +53,10 @@ http://localhost:5000
 1. Enter text in the input box
 2. Click "Detect Emotion"
 3. View results with emotion classification and confidence scores
+
+### 🤝 Contributing
+1. Fork the repository
+2. Create a feature branch (git checkout -b feature/AmazingFeature)
+3. Commit changes (git commit -m 'Add some AmazingFeature')
+4. Push to branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
