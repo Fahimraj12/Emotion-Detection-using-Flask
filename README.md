@@ -64,6 +64,6 @@ http://localhost:5000
 ### 📞 Support & Contact
 - For questions, issues, or contributions:
   - Open an Issue
-  - Email: your.email@example.com
+  - Email: mofahimraj@gmail.com
   - Project Link: https://github.com/yourusername/Emotion-Detection-using-Flask
 
