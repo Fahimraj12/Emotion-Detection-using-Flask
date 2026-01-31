@@ -60,3 +60,10 @@ http://localhost:5000
 3. Commit changes (git commit -m 'Add some AmazingFeature')
 4. Push to branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+
+### 📞 Support & Contact
+- For questions, issues, or contributions:
+  - Open an Issue
+  - Email: your.email@example.com
+  - Project Link: https://github.com/yourusername/Emotion-Detection-using-Flask
+
