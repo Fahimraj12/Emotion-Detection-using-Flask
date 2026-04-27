@@ -4,7 +4,7 @@ Emotion Detection using Flask is the project of Final Submission of IBM Developi
 ## 📌 Project Overview:
 A web-based emotion detection system that analyzes text input to identify emotional states, developed as the final project for IBM's "Developing AI Apps using Python and Flask" course. This application uses Natural Language Processing (NLP) and machine learning to classify text into various emotional categories.
 
-## ✨ Features
+## ✨ Features:
 - Real-time Emotion Analysis: Instantly detects emotions from input text
 - Multi-Emotion Classification: Identifies happiness, sadness, anger, fear, love, surprise, and more
 - Web Interface: User-friendly Flask web application
