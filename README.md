@@ -66,6 +66,7 @@ http://localhost:5000
   - Open an Issue
   - Email: mofahimraj@gmail.com
   - Project Link: https://github.com/Fahimraj12/Emotion-Detection-using-Flask
-  - 
+
+###
 
 ###### Built with ❤️ using Flask
